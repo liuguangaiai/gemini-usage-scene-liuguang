@@ -14,4 +14,4 @@ Gemini 学习 / Gemma 创作 / 流光AI 场景 / 写作工具 / 编程助手
 
 模板：`site_v1.html.j2`
 CTA：`https://liuguang.ai?utm_source=satellite-gemini-usage-scene&utm_medium=referral&utm_campaign=gemini-usage-scene`
-最后更新：2026年07月29日
+最后更新：2026年08月01日
